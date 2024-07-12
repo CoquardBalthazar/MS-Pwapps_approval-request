@@ -1,4 +1,4 @@
-![Screenshot of the project]('/app-screenshots/Screenshot-Screen2-language.png)
+![Screenshot of the project](https://github.com/CoquardBalthazar/MS-Pwapps_approval-request/blob/main/app-screenshots/Screenshot-Screen2-language.PNG)
 
 # Description
 
