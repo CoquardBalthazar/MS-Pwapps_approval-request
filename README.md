@@ -1,4 +1,4 @@
-[Screenshot of the project]('/app-screenshots/Screenshot-Screen2-language.png)
+![Screenshot of the project]('/app-screenshots/Screenshot-Screen2-language.png)
 
 # Description
 
