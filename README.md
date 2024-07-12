@@ -1,3 +1,5 @@
+[Screenshot of the project]('/app-screenshots/Screenshot-Screen2-language.png)
+
 # Description
 
 Microsoft Power app for approval request inside a company. The goal of the application was to automate the approval process of hardware and software request in a company.
